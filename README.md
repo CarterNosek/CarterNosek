@@ -12,14 +12,5 @@ Outside of class, I always love learning new ways to make projects that I am int
 - Python (intermediate)
 - JavaScipt (beginner)
 
-##
-<div>
-  <a href="https://www.linkedin.com/in/carternosek/" target="_blank">
-    <img src="https://svgshare.com/i/100R.svg" alt="LinkedIn Logo" width="50" height="50">
-  </a>
-  <a href="https://www.instagram.com/carter_nosek/" target="_blank">
-    <img href="https://www.instagram.com/carter_nosek/" src="https://svgshare.com/i/100S.svg" alt="Instagram Logo" width="50" height="50">
-  </a>
-</div>
 
 
