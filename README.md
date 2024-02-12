@@ -10,7 +10,7 @@ Outside of class, I always love learning new ways to make projects that I am int
 ## 📃 Language Experience
 - C++ (intermediate)
 - Python (intermediate)
-- JavaScipt (beginner)
+- JavaScript, CSS, HTML (beginner)
 
 
 
