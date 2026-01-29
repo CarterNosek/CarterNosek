@@ -4,12 +4,6 @@
 
 My name is Carter Nosek and I am currently pursuing my Bachelors in **Computer Science** at the **University of Florida**. My main areas of interest are **Machine Learning**, **AI**, and **Software Engineering**.
 
-## 📚 Education
-
-I am in my 3rd year at the University of Florida where I am majoring in Computer Science with a minor in Philosophy. 
-
-I currently hold a 4.00 GPA and aim to continue that success throughout my final years.
-
 ## 🎮 What are some of my hobbies?
 Outside of class, I always love learning new ways to make projects that I am interested in. Currently, I am working on improving my **Frontend Development** skills by learning the MERN web development stack with MySQL. 
 
